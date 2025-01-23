@@ -1,0 +1,11 @@
+{
+    "python.testing.pytestArgs": [
+        "test",
+        "-s",
+        "--asyncio-mode=auto",
+        "--color=yes",
+        "-v"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
