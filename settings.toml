@@ -1,0 +1,2 @@
+[db]
+url = "mysql://lh3_api:xxxx@mysql-server:3306/lh3_test"
