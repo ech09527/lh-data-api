@@ -14,3 +14,4 @@ class StrategyExecInfo(Model):
     class Meta:
         table = "strategy_exec_info"
         managed = False
+        
