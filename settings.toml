@@ -1,0 +1,2 @@
+[db]
+url = "mysql://lh3_api:ECF7773F15@rm-j6c4gtw0039u0ia32ko.mysql.rds.aliyuncs.com:3306/lh3_test"
